@@ -1,0 +1,9 @@
+Flask
+car-price-prediction-ml
+│
+├── app.py
+├── requirements.txt
+├── templates/
+│   └── index.html
+├── README.md
+└── .gitignore
